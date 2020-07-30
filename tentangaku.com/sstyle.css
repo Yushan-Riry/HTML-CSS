@@ -1,0 +1,347 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header h1 {
+  background: skyblue;
+  color: white;
+  padding-left: 15px;
+  padding-top: 10px;
+}
+
+header h3 {
+  color: white;
+  font-size: 20px;
+  padding-left: 1100px;
+  padding-bottom: 20px;
+  margin-top: -85px;
+}
+
+#kontak {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+  margin-left: 1150px;
+  padding-bottom: 20px;
+}
+
+#kontak:hover {
+  background: turquoise;
+  cursor: pointer;
+  border-bottom: 1px solid white;
+}
+
+nav ul {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  background: skyblue;
+  margin: 0;
+  padding-left: 0;
+}
+
+nav ul li {
+  color: #fff;
+  background: skyblue;
+  display: inline-block;
+  padding: 1rem;
+  padding-top: 20px;
+  padding-bottom: 22px;
+  border: 1px blue;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul li:hover {
+  background: turquoise;
+  cursor: pointer;
+  border-bottom: 1px solid white;
+}
+
+.bodyhome {
+  background-image: url(../tentangaku.com/gambar/pantaii.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+body {
+  background-image: url(../tentangaku.com/gambar/owo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bodykontak {
+  background-image: url(../tentangaku.com/gambar/pantai.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.contenthome h2 {
+  margin-left: 555px;
+  margin-top: 20px;
+}
+
+.str {
+  margin-left: 610px;
+  margin-top: 5px;
+}
+
+.umaru {
+  margin-left: 455px;
+  margin-top: 20px;
+  width: 400px;
+}
+
+.contenthome h3 {
+  color: snow;
+  padding-top: 50px;
+  padding-left: 25px;
+  padding-bottom: 5px;
+}
+
+.isihome {
+  padding: 15px;
+  margin: auto;
+  margin-top: 35px;
+  margin-right: 200px;
+  margin-left: 200px;
+  border: 1px solid white;
+  font-family: "Tektonpro";
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  color: peachpuff;
+}
+
+#kontakdihome {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: block;
+  text-decoration: none;
+  background: salmon;
+  color: white;
+  margin-left: 20px;
+  margin-right: 1090px;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.contenthobi h2 {
+  margin-left: 40px;
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+.isihobi {
+  padding: 15px;
+  margin: auto;
+  margin-top: 35px;
+  margin-right: 250px;
+  margin-left: 20px;
+  border: 1px solid white;
+  font-family: "Tektonpro";
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  color: gray;
+}
+
+.hobi {
+  width: 450px;
+  padding-bottom: 75px;
+  padding-top: 90px;
+  padding-left: 450px;
+}
+
+.gambar {
+  width: 1200px;
+  height: 400px;
+}
+
+.hobi1 {
+  width: 200px;
+  height: 350px;
+  padding-left: 200px;
+  padding-right: 50px;
+}
+
+.hobi2 {
+  width: 200px;
+  height: 350px;
+  padding-left: 100px;
+  padding-right: 50px;
+  padding-top: -350px;
+}
+
+.hobi3 {
+  width: 200px;
+  height: 350px;
+  padding-left: 100px;
+  padding-top: -350px;
+}
+
+.contentsekolah h2 {
+  margin-left: 40px;
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+.isisekolah {
+  padding: 15px;
+  margin: auto;
+  margin-top: 35px;
+  margin-right: 250px;
+  margin-left: 20px;
+  border: 1px solid white;
+  font-family: "Tektonpro";
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  color: palegreen;
+}
+
+.smk2 {
+  width: 400px;
+  padding-top: 80px;
+  padding-left: 240px;
+}
+
+.smenda {
+  width: 400px;
+  padding-top: 80px;
+  padding-left: 40px;
+}
+
+.contentcita-cita h2 {
+  margin-left: 40px;
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+.isicita-cita {
+  padding: 15px;
+  margin: auto;
+  margin-top: 35px;
+  margin-right: 250px;
+  margin-left: 20px;
+  border: 1px solid white;
+  font-family: "Tektonpro";
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  color: palegoldenrod;
+}
+
+.programmer {
+  width: 350px;
+  margin-top: 15px;
+  padding-top: 40px;
+  padding-left: 500px;
+  margin-bottom: 46px;
+}
+
+.contentnext-10-year h2 {
+  margin-left: 40px;
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+.isinext-10-year {
+  padding: 15px;
+  margin: auto;
+  margin-top: 35px;
+  margin-right: 250px;
+  margin-left: 20px;
+  border: 1px solid white;
+  font-family: "Tektonpro";
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  color: paleturquoise;
+}
+
+.uwu {
+  width: 400px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  padding-left: 500px;
+}
+
+.contentkontakku h2 {
+  color: darkorange;
+  margin: auto;
+  margin-top: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.isikontakku {
+  margin: auto;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-family: "Tektonpro";
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  color: yellow;
+  text-align: center;
+}
+
+.uwuw {
+  width: 155px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+fieldset {
+  border-radius: 4px;
+  border: solid maroon;
+  width: 500px;
+  background: peachpuff;
+  margin: auto;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  color: mediumorchid;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+legend {
+  background-color: plum;
+  color: white;
+  padding: 5px 10px;
+}
+
+input[type="text"] {
+  padding: 4px;
+  width: 50%;
+  margin: 0px;
+  border-radius: 4px;
+  font-size: 15px;
+}
+
+input[type="submit"] {
+  width: 100px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 25px;
+  padding-left: 25px;
+  margin-top: 20px;
+  margin-left: 195px;
+  background-color: pink;
+}
+
+footer {
+  background: powderblue;
+  text-align: center;
+  margin-top: 10px;
+}
